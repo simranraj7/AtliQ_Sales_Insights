@@ -7,6 +7,7 @@ Top 5 customers by revenue and sales quantity
 Top 5 products by revenue number
 
 AIM’S GRID
+
 Purpose 
 To unlock sales insights that are not visible before for the sales team for decision support and automate them to reduce manual time spent for data gathering.
 
